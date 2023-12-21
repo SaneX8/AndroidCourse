@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidKurssi</string>
+    <string name="action_settings">Asetukset</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">eka juttu</string>
+    <string name="second_fragment_label">toinen juttu</string>
+    <string name="next">Seuraava</string>
+    <string name="previous">Edellinen</string>
+    <string name="hellotext">Hei</string>
+    <string name="StartBtn">Aloita</string>
+    <string name="SecondBtn">Aloita peli</string>
+    <string name="gameName">Pelidemo</string>
+    <string name="scoretxt">Pelin tulos :</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Koti</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Ilmoitukset</string>
+    <string name="locationName">Sijaintitiedot</string>
+    <string name="mapButton">Näytä kartalla</string>
+    <string name="longitudetxt">Leveysaste (pohjois, etelä suuntainen sijainti)</string>
+    <string name="latitudetxt">Pituusaste(Itä-länsi-suuntainen sijainti)</string>
+    <string name="addresstxt">Osoite</string>
+    <string name="hometxt">Koti</string>
+    <string name="locationtxt">Sijainti</string>
+    <string name="timertxt">Ajastin</string>
+    <string name="SearchButton">Hae</string>
+    <string name="YtjInfotxt">Hae yritystä nimellä</string>
+    <string name="TenttiBtn">Tentti</string>
+    <string name="Valuuttamuunninteksti">Euroturistien valuuttamuunnin</string>
+    <string name="element_text" />
+
+</resources>

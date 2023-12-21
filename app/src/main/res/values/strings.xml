@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">AndroidCourse</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hellotext">Hello</string>
+    <string name="StartBtn">Start</string>
+    <string name="SecondBtn">Start Game</string>
+    <string name="gameName">Game demo</string>
+    <string name="scoretxt">Game score : </string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="locationName">Location information</string>
+    <string name="mapButton">Show in the map</string>
+    <string name="longitudetxt">Leveysaste (pohjois, etelä suuntainen sijainti)</string>
+    <string name="latitudetxt">Pituusaste(Itä-länsi-suuntainen sijainti)</string>
+    <string name="addresstxt">Address</string>
+    <string name="timertxt">Timer</string>
+    <string name="hometxt">Koti</string>
+    <string name="locationtxt">Location</string>
+    <string name="SearchButton">Search</string>
+    <string name="YtjInfotxt">Search company by name</string>
+    <string name="TenttiBtn">Exam</string>
+    <string name="Valuuttamuunninteksti">Euroturistien valuuttamuunnin</string>
+    <string name="element_text" />
+
+
+
+
+
+</resources>
